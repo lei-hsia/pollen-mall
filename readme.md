@@ -80,4 +80,3 @@ s: 营销系统的db; 对应coupon;
 | wms_ware_order_task        |
 | wms_ware_order_task_detail |
 | wms_ware_sku               |
-

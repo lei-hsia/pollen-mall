@@ -16,7 +16,7 @@
         <module>pollenmall-order</module>
         <module>pollenmall-product</module>
         <module>pollenmall-ware</module>
+        <module>renren-fast</module>
     </modules>
-
 
 </project>
